@@ -8,7 +8,7 @@ public class Main {
         int kenar1=input.nextInt();
         System.out.print("Üçgenin 2. kenarını giriniz:");
         int kenar2=input.nextInt();
-        Syste.out.print("Üçgenin 3. kenarını giriniz:");
+        System.out.print("Üçgenin 3. kenarını giriniz:");
         int kenar3=input.nextInt();
         int u=(kenar1+kenar2+kenar3)/2;
         double aln=Math.sqrt(u*(u-kenar1)*(u-kenar2) * (u - kenar3));
