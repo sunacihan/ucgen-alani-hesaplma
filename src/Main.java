@@ -14,5 +14,6 @@ public class Main {
         double aln=Math.sqrt(u*(u-kenar1)*(u-kenar2) * (u - kenar3));
         System.out.println(aln);
 
+
     }
 }
