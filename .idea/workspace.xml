@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a26d1cce-67da-497f-b9f2-510cd9e8ac3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ucgen-alani-hesaplma.iml" afterDir="false" />
-    </list>
+    <list default="true" id="a26d1cce-67da-497f-b9f2-510cd9e8ac3e" name="Changes" comment="hesaplama yapıldı" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +52,63 @@
       <option name="presentableId" value="Default" />
       <updated>1677047061408</updated>
     </task>
+    <task id="LOCAL-00001" summary="üçgenin alanı hesaplandı">
+      <created>1677048237369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048237369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="üçgenin alanı hesaplandı">
+      <created>1677048302929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048302929</updated>
+    </task>
+    <task id="LOCAL-00003" summary="üçgenin alanı hesaplandı">
+      <created>1677048330874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048330874</updated>
+    </task>
+    <task id="LOCAL-00004" summary="üçgenin alanı hesaplandı">
+      <created>1677048355181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048355181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="üçgenin alanı hesaplandıı">
+      <created>1677048388713</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048388713</updated>
+    </task>
+    <task id="LOCAL-00006" summary="üçgenin alanı hesaplandıı">
+      <created>1677048421715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048421715</updated>
+    </task>
+    <task id="LOCAL-00007" summary="üçgenin alanı hesaplandıı">
+      <created>1677048492615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048492615</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hesaplama yapıldı">
+      <created>1677048528619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677048528619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +121,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="üçgenin alanı hesaplandı" />
+    <MESSAGE value="üçgenin alanı hesaplandıı" />
+    <MESSAGE value="hesaplama yapıldı" />
+    <option name="LAST_COMMIT_MESSAGE" value="hesaplama yapıldı" />
   </component>
 </project>
