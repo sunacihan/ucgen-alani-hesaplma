@@ -6,7 +6,7 @@ public class Main {
         Scanner input=new Scanner(System.in);
         System.out.print("Üçgenin 1. kenarını giriniz:");
         int kenar1=input.nextInt();
-        System.out.print("Üçgenn 2. kenarını giriniz:");
+        System.out.print("Üçgenin 2. kenarını giriniz:");
         int kenar2=input.nextInt();
         System.out.print("Üçgenin 3. kenarını giriniz:");
         int kenar3=input.nextInt();
